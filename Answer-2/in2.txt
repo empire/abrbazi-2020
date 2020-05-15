@@ -1,0 +1,5 @@
+4
+assign a = 1 + 0
+cout a
+assign a = a + a
+goto 2

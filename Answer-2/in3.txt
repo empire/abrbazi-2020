@@ -1,0 +1,8 @@
+7
+cout 0
+goto 5
+cout 1
+goto 7
+cout 2
+goto 3
+cout 3

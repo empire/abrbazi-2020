@@ -1,0 +1,3 @@
+2
+assign a = 2 + 2
+cout a

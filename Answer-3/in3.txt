@@ -1,0 +1,7 @@
+6
+git del
+git add test1
+git add test2
+git add test3
+git commit & push
+git pull
